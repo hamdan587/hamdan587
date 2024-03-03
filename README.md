@@ -1,5 +1,5 @@
 👋 Hi, I’m @hamdan587 (Muhammad Hamdan Ali)
-👀 I’m interested in programming, database management, project management.
+👀 I’m interested in web development, database management and project management.
 🌱 I’m currently learning web development.
 💞️ I’m looking to collaborate on multiple open source projects to enhance my skills(datastructures,database,object-oriented programming)
 📫 You can reach me at linkedin [https://www.linkedin.com/in/hamdan-ali-b72979186/].
