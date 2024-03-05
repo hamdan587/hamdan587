@@ -1,7 +1,8 @@
 👋 Hi, I’m @hamdan587 (Muhammad Hamdan Ali)
 👀 I’m interested in web development, database management and project management.
-🌱 I’m currently learning web development.
-💞️ I’m looking to collaborate on multiple open source projects to enhance my skills(datastructures,database,object-oriented programming)
+🌱 I have acquired a solid understanding of data structures, databases, and object-oriented programming concepts.
+🌱 I’m currently learning web development
+💞️ I’m looking to collaborate on multiple open source projects to enhance my skills
 📫 You can reach me at linkedin [https://www.linkedin.com/in/hamdan-ali-b72979186/].
 😄 Pronouns: He/Him
 ⚡ Fun fact: I once wrote a program that generated random haikus from user inputted words.
