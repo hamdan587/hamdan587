@@ -11,12 +11,10 @@
 
 - 🌱 I’m currently learning **Devops and Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hamdan587/hamdan587](https://github.com/hamdan587/hamdan587)
-
 - 📝 I regularly write articles on [https://medium.com/@hamdanali051](https://medium.com/@hamdanali051)
 
 - 📫 How to reach me **hamdanali051@gmail.com**
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hamdan-ali-b72979186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamdan-ali-b72979186/" height="30" width="40" /></a>
