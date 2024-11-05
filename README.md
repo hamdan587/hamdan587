@@ -39,16 +39,10 @@
 </div>
 
 <h3 align="left">📈 GitHub Stats</h3>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hamdan587&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="180" alt="Hamdan Ali's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamdan587&layout=compact&langs_count=5&theme=dracula" height="180" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamdan587&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="180" alt="Hamdan Ali's GitHub Stats" style="width: 45%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamdan587&layout=compact&langs_count=5&theme=dracula" height="180" alt="Top Languages" style="width: 45%; display: inline-block;" />
+</div>
 
 <h3 align="left">📇 Latest Blog posts</h3>
 <p align="left">
@@ -62,11 +56,16 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/hamdan-ali-b72979186/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <span style="margin-left: 5px;">LinkedIn</span>
   </a>
+  <span style="margin-left: 15px;"></span>
   <a href="https://medium.com/@hamdanali051" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+    <span style="margin-left: 5px;">Medium</span>
   </a>
+  <span style="margin-left: 15px;"></span>
   <a href="mailto:hamdanali051@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <span style="margin-left: 5px;">Gmail</span>
   </a>
 </div>
