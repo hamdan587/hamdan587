@@ -39,10 +39,16 @@
 </div>
 
 <h3 align="left">📈 GitHub Stats</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamdan587&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="180" alt="Hamdan Ali's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamdan587&layout=compact&langs_count=5&theme=dracula" height="180" alt="Top Languages" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hamdan587&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="180" alt="Hamdan Ali's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamdan587&layout=compact&langs_count=5&theme=dracula" height="180" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">📇 Latest Blog posts</h3>
 <p align="left">
