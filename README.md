@@ -61,7 +61,7 @@
   <span style="margin-left: 15px;"></span>
   <a href="https://medium.com/@hamdanali051" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
-    <span style="margin-left: 5px;">Medium</span>
+    <span style="margin-left: 8px;">Medium</span>
   </a>
   <span style="margin-left: 15px;"></span>
   <a href="mailto:hamdanali051@gmail.com">
