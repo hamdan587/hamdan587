@@ -61,7 +61,7 @@ Docker, Kubernetes, Git, AWS, MySQL, MongoDB, HuggingFace, Figma
 ---
 
 ### 📄 Resume  
-📥 [Download My GitHub Profile Summary (PDF)](./HamdanAli_GitHubProfile.pdf)
+📄 [View My CV](https://github.com/hamdan587/hamdan587/blob/main/MuhammadHamdanAli_CV.pdf)
 
 ---
 
